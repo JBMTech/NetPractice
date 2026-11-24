@@ -1,18 +1,18 @@
 *This project has been created as part of the 42 curriculum by jabuleje.*
 
-# NetPractice
+# 🌐 NetPractice
 
-## Description
+## 📖 Description
 
 NetPractice is a practical networking project from the 42 curriculum designed to introduce the fundamentals of computer networking.
 
 The main objective is to understand how devices communicate within a network and how to configure IP addressing and routing to establish successful connections between different devices.
 
-Through 10 progressive networking levels, the project introduces different network configurations and challenges involving computers, routers, switches, and network interfaces.
+Through 10 networking levels, the project introduces different network configurations and challenges involving computers, routers, switches, and network interfaces.
 
 The exercises focus on identifying and solving network configuration problems by correctly assigning IP addresses, subnet masks, and default gateways.
 
-## Networking Concepts
+## 📡 Networking Concepts
 
 Throughout this project, the following networking concepts are studied and applied:
 
@@ -27,7 +27,7 @@ Throughout this project, the following networking concepts are studied and appli
 - **TCP and UDP:** Understanding the transport protocols and their roles.
 - **Routing:** Understanding how packets travel between different networks.
 
-## Instructions
+## 🛠️ Instructions
 
 ### 1. Running the training interface
 
@@ -81,7 +81,6 @@ Example:
 ```text
 NetPractice/
 ├── README.md
-├── run.sh
 ├── level1.json
 ├── level2.json
 ├── level3.json
@@ -96,19 +95,19 @@ NetPractice/
 
 Make sure all 10 configurations are exported and included before submitting the project.
 
-## Resources
+## 📚 Resources
 
 The following resources were used to understand and practice the networking concepts covered in this project.
 
-### Documentation and references
+### 📝 Documentation and references
 
 - [MDN - TCP/IP](https://developer.mozilla.org/en-US/docs/Glossary/TCP)
 - [Cloudflare - What is an IP address?](https://www.cloudflare.com/learning/network-layer/what-is-an-ip-address/)
 - [Cloudflare - What is a subnet?](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
-- [Direccionamiento IP: IPv4, IPv6, clases y tipos de redes](https://www.youtube.com/watch?v=r6MN9Bt71jA)
-- [Subnetting: Divide y organiza tus redes desde cero](https://www.youtube.com/watch?v=0GXDPAqrsA8&t=992s)
+- [IP addressing: IPv4, IPv6, network classes and types](https://www.youtube.com/watch?v=r6MN9Bt71jA)
+- [Subnetting: Divide and organize your networks from scratch](https://www.youtube.com/watch?v=0GXDPAqrsA8&t=992s)
 
-### AI Usage
+### 🤖 AI Usage
 
 AI tools, including ChatGPT, were used as learning and support resources throughout the project.
 
