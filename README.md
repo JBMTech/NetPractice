@@ -16,16 +16,25 @@ The exercises focus on identifying and solving network configuration problems by
 
 Throughout this project, the following networking concepts are studied and applied:
 
-- **TCP/IP addressing:** Understanding IPv4 addresses and network communication.
-- **Subnet masks:** Identifying network and host portions of IP addresses.
-- **CIDR notation:** Understanding network prefixes and address ranges.
-- **Default gateways:** Configuring the path used to reach devices outside the local network.
-- **Routers:** Connecting different networks and forwarding packets between them.
-- **Switches:** Connecting devices within the same local network.
-- **Network interfaces:** Understanding how devices connect to different networks.
-- **OSI model:** Understanding the different layers involved in network communication.
-- **TCP and UDP:** Understanding the transport protocols and their roles.
+- **TCP/IP Addressing:** Understanding IPv4 addresses, which define an IP address as a 32-bit number, and network communication.
+
+- **Subnet Masks:** Identifying the network and host portions of IP addresses. This defines the range of IP addresses that can be used within a network or subnet.
+
+- **CIDR Notation:** Understanding network prefixes and address ranges.
+
+- **Default Gateways:** Configuring the route used to access devices outside the local network.
+
 - **Routing:** Understanding how packets travel between different networks.
+
+- **Routers:** Connecting different networks and forwarding packets between them.
+
+- **Switches:** Connecting devices within the same local network.
+
+- **Network Interfaces:** Understanding how devices connect to different networks.
+
+- **OSI Model:** Understanding the different layers involved in network communication.
+
+- **TCP and UDP:** Understanding transport protocols and their functions. TCP stands for Transmission Control Protocol. It is a communications standard that allows application programs and devices to exchange messages across a network. It is used to send packets across the Internet.
 
 ## 🛠️ Instructions
 
